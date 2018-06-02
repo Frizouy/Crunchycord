@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd ..
 echo "To install Crunchycord, you need node.js installed. If it is, just wait and let the magic do it's stuff."
 npm install pm2 -g
 npm install discord-rich-presence
