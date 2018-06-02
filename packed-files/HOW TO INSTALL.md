@@ -15,3 +15,4 @@ To stop the server, run stop_crunchycord.bat
 Optionally, you can set crunchycord to run on startup. To do that, run autostart.bat and follow the instructions
 
 ## Install chrome extension
+Go to your [extensions page](chrome://extensions/) and drag & drop the crunchycord.crx file onto it, chrome should ask if you would like to install the extension.
