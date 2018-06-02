@@ -1,0 +1,26 @@
+{
+	"name": "CrunchyCord",
+	"version": "0.1",
+	"description": "Shows what anime you're watching through Crunchyroll in your discord rich presence",
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": true
+	},
+	"icons": {
+    "16": "img/icon.png",
+    "64": "img/icon.png",
+    "128": "img/icon.png"
+	},
+	"browser_action": {
+    "default_icon": "img/icon.png"
+	},
+	"permissions": [
+		"http://localhost:3000/*",
+		"tabs",
+		"webRequest",
+		"webRequestBlocking"
+	],
+	"manifest_version": 2
+}
