@@ -16,5 +16,6 @@ To stop the server, run `stop_crunchycord.bat`
 Optionally, you can set crunchycord to run on startup. To do that, run `autostart.bat` and follow the instructions
 
 ## Install chrome extension
-### The extension file is in the `packed-files` folder.
-Go to your extensions page (chrome://extensions/) and drag & drop the `crunchycord.crx` file onto it, chrome should ask if you would like to install the extension.
+Go to your extensions page (chrome://extensions/) and enable Developer Mode.
+Click "LOAD UNPACKED" and select the root of the crunchycord folder.
+Select "Ok" and you now have the extension installed.
