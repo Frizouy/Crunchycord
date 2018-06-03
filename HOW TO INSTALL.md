@@ -2,8 +2,9 @@
 
 ## Install server
 ### The server files are in the `server` folder.
-### To install the crunchyroll server, which handles setting your discord presence. You need to do 2 things.
+### To install the crunchyroll server, which handles setting your discord presence. You need to do 3 things.
 1. [Install Node.js](https://nodejs.org/)
+2. [Install Git](https://git-scm.com/downloads)
 2. On Windows: Run `install_required_stuff.bat` (in the windows folder)
 3. On Linux, macOS, or any other operating system with bash: Run `install_required_stuff.sh` (in the linux-or-macos folder)
 
