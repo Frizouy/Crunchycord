@@ -1,6 +1,6 @@
 @echo off
 cd ..
-echo To install Crunchycord, you need node.js installed. If it is, just wait and let the magic do it's stuff.
+echo To install Crunchycord, you need node.js and Git installed. If it is, just wait and let the magic do it's stuff.
 npm install pm2 -g
 mkdir node_modules
 npm install discord-rich-presence
